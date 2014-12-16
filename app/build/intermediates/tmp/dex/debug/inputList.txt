@@ -1,0 +1,4 @@
+C:\Users\Javier\AndroidStudioProjects\PruebaOsMeusLugares\app\build\intermediates\classes\debug
+C:\Users\Javier\AndroidStudioProjects\PruebaOsMeusLugares\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-a31d04a9bdeaf6faac6ec4fc3ef930ae0931f507.jar
+C:\Users\Javier\AndroidStudioProjects\PruebaOsMeusLugares\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-863f18cbff4eafd7d2fcad6630492cc5b0190193.jar
+C:\Users\Javier\AndroidStudioProjects\PruebaOsMeusLugares\app\build\intermediates\pre-dexed\debug\classes-ceb8b37b4af8f0fcc6b52d2132b77dceabe3bdbd.jar

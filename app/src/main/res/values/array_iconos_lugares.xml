@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name ="array_iconos_lugares">
+    	<item>@drawable/playa</item>
+     	<item>@drawable/restaurante</item>
+      	<item>@drawable/hotel</item>
+        <item>@drawable/biblio</item>
+        <item>@drawable/coche</item>
+        <item>@drawable/turismo</item>
+        <item>@drawable/img_otros</item>
+     </array>
+</resources>
